@@ -15,5 +15,5 @@ An immersive virtual reality game. Our game will be set in a spooky, haunted hou
 Link to Project Video:
 https://vimeo.com/934398542
 
-Link to website:
+Link to Porject Website:
 https://magdalenad.itch.io/vr-haunted-mansion
