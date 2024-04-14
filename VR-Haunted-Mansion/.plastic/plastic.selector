@@ -1,0 +1,4 @@
+repository "Tutorial@magdalenadhima@cloud"
+  path "/"
+    br "/main"
+    co "/main"
